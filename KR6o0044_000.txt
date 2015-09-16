@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 提婆菩薩釋楞伽經中外道小乘涅槃論
+#+DATE: 2015-08-30 20:59:43.249250
+#+PROPERTY: JUAN 0
