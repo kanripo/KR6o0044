@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:59:43.070257
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 12:50
 #+TITLE: 提婆菩薩釋楞伽經中外道小乘涅槃論
 #+PROPERTY: CBETA_ID T32n1640
 #+PROPERTY: ID KR6o0044
