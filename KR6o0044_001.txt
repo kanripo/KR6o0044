@@ -1,19 +1,18 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:59:43.070257
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 12:50
 #+TITLE: 提婆菩薩釋楞伽經中外道小乘涅槃論
 #+PROPERTY: CBETA_ID T32n1640
 #+PROPERTY: ID KR6o0044
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 32, No. 1640
 #+PROPERTY: VOL 32
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6o0044_T_000-0156c>¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6o0044_T_001-0156c> ¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
-No.1640¶
-
- 《提婆菩薩釋楞伽經中外道小乘¶
+No. 1640¶
+《提婆菩薩釋楞伽經中外道小乘¶
 涅槃論》¶
 ¶
 提波菩薩造¶
@@ -120,7 +119,7 @@ No.1640¶
 答曰。第十三外道尼犍子論師作如是說。¶
 初生一男共一女。彼二和合能生一切有命¶
 無命等物。後時離散還沒彼處名為涅槃。是¶
-故尼犍子論師說。男女和合生一切物。名涅¶
+故尼犍子論師說。男女和各生一切物。名涅¶
 槃因。¶
 
 問曰。何等外道說證諦道名涅槃因。¶
